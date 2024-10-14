@@ -1,0 +1,18 @@
+Student
+Atqa Asma
+Student 
+Awais Ishaq
+Parent
+Haseeb ALi
+Teacher
+Adeel Muzaffar syed
+Student
+Zainab Asif
+Teacher
+Aamir Sohail
+Parent 
+Ali Ahmed
+Student
+Abdullah Nasir
+Teacher
+Shahid Khan
